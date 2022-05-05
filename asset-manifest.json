@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/testing-gh-pages-reactjs/static/css/main.823a96da.css",
-    "main.js": "/testing-gh-pages-reactjs/static/js/main.5f6d6679.js",
+    "main.js": "/testing-gh-pages-reactjs/static/js/main.aa7cf284.js",
     "static/css/8041.5f615e90.chunk.css": "/testing-gh-pages-reactjs/static/css/8041.5f615e90.chunk.css",
-    "static/js/8041.03195166.chunk.js": "/testing-gh-pages-reactjs/static/js/8041.03195166.chunk.js",
+    "static/js/8041.f16c4f7d.chunk.js": "/testing-gh-pages-reactjs/static/js/8041.f16c4f7d.chunk.js",
     "static/js/3024.bd477123.chunk.js": "/testing-gh-pages-reactjs/static/js/3024.bd477123.chunk.js",
     "static/js/4009.1944d4be.chunk.js": "/testing-gh-pages-reactjs/static/js/4009.1944d4be.chunk.js",
     "static/js/3001.03a2168a.chunk.js": "/testing-gh-pages-reactjs/static/js/3001.03a2168a.chunk.js",
@@ -66,9 +66,9 @@
     "static/media/6.jpg": "/testing-gh-pages-reactjs/static/media/6.edefb235566ed72a7429.jpg",
     "index.html": "/testing-gh-pages-reactjs/index.html",
     "main.823a96da.css.map": "/testing-gh-pages-reactjs/static/css/main.823a96da.css.map",
-    "main.5f6d6679.js.map": "/testing-gh-pages-reactjs/static/js/main.5f6d6679.js.map",
+    "main.aa7cf284.js.map": "/testing-gh-pages-reactjs/static/js/main.aa7cf284.js.map",
     "8041.5f615e90.chunk.css.map": "/testing-gh-pages-reactjs/static/css/8041.5f615e90.chunk.css.map",
-    "8041.03195166.chunk.js.map": "/testing-gh-pages-reactjs/static/js/8041.03195166.chunk.js.map",
+    "8041.f16c4f7d.chunk.js.map": "/testing-gh-pages-reactjs/static/js/8041.f16c4f7d.chunk.js.map",
     "3024.bd477123.chunk.js.map": "/testing-gh-pages-reactjs/static/js/3024.bd477123.chunk.js.map",
     "4009.1944d4be.chunk.js.map": "/testing-gh-pages-reactjs/static/js/4009.1944d4be.chunk.js.map",
     "3001.03a2168a.chunk.js.map": "/testing-gh-pages-reactjs/static/js/3001.03a2168a.chunk.js.map",
@@ -122,6 +122,6 @@
   },
   "entrypoints": [
     "static/css/main.823a96da.css",
-    "static/js/main.5f6d6679.js"
+    "static/js/main.aa7cf284.js"
   ]
 }
