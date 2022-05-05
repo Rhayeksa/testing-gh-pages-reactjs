@@ -23,7 +23,7 @@ const AppContent = () => {
               )
             )
           })}
-          <Route path="/" element={<Navigate to="dashboard" replace />} />
+          <Route path="/testing-gh-pages-reactjs" element={<Navigate to="dashboard" replace />} />
         </Routes>
       </Suspense>
     </CContainer>
