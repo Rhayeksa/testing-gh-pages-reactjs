@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/testing-gh-pages-reactjs/static/css/main.823a96da.css",
-    "main.js": "/testing-gh-pages-reactjs/static/js/main.49d8fcc1.js",
+    "main.js": "/testing-gh-pages-reactjs/static/js/main.f714efc4.js",
     "static/css/8041.5f615e90.chunk.css": "/testing-gh-pages-reactjs/static/css/8041.5f615e90.chunk.css",
     "static/js/8041.f16c4f7d.chunk.js": "/testing-gh-pages-reactjs/static/js/8041.f16c4f7d.chunk.js",
     "static/js/3024.bd477123.chunk.js": "/testing-gh-pages-reactjs/static/js/3024.bd477123.chunk.js",
@@ -66,7 +66,7 @@
     "static/media/6.jpg": "/testing-gh-pages-reactjs/static/media/6.edefb235566ed72a7429.jpg",
     "index.html": "/testing-gh-pages-reactjs/index.html",
     "main.823a96da.css.map": "/testing-gh-pages-reactjs/static/css/main.823a96da.css.map",
-    "main.49d8fcc1.js.map": "/testing-gh-pages-reactjs/static/js/main.49d8fcc1.js.map",
+    "main.f714efc4.js.map": "/testing-gh-pages-reactjs/static/js/main.f714efc4.js.map",
     "8041.5f615e90.chunk.css.map": "/testing-gh-pages-reactjs/static/css/8041.5f615e90.chunk.css.map",
     "8041.f16c4f7d.chunk.js.map": "/testing-gh-pages-reactjs/static/js/8041.f16c4f7d.chunk.js.map",
     "3024.bd477123.chunk.js.map": "/testing-gh-pages-reactjs/static/js/3024.bd477123.chunk.js.map",
@@ -122,6 +122,6 @@
   },
   "entrypoints": [
     "static/css/main.823a96da.css",
-    "static/js/main.49d8fcc1.js"
+    "static/js/main.f714efc4.js"
   ]
 }
